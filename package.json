@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/newspacebpo/fraudfinder-node-client#readme",
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.20.0",
+    "moment": "^2.28.0"
   }
 }
